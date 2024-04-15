@@ -1,1 +1,1 @@
-#FREECODECAMP - RDB - BASH - Build a Salon Appointment Scheduler
+FREECODECAMP - RDB - BASH - Build a Salon Appointment Scheduler
